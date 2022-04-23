@@ -15,11 +15,12 @@ The K-means algorithm groups the data into k clusters, where belonging to a clus
 
 ## Resources
 ### Tools/Languages
-- Jupypter Notebook
+- Jupyter Notebook 6.4.5
 - Visual Studio Code 1.66.1 
-- Pandas
-- SK Learn
-- Matplotlib
+- Pandas 1.3.4
+- Scikit-learn 1.0.2
+- hvPlot 0.7.3
+- Plotly
 
  ### Data
  - cryptocurrency data (https://min-api.cryptocompare.com/data/all/coinlist)
