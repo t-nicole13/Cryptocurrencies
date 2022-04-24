@@ -25,3 +25,24 @@ The K-means algorithm groups the data into k clusters, where belonging to a clus
  ### Data
  - cryptocurrency data (https://min-api.cryptocompare.com/data/all/coinlist)
  - unsupervised machine learning (https://www.guru99.com/unsupervised-machine-learning.html)
+
+ ## Results
+
+ ### Table of Tradable Cryptocurrencies
+
+![Getting Started](images/tradable-table.png)
+
+### 3D Scatter with PCA Data and the Cluster
+
+![Getting Started](images/3D.png)
+
+### Plot of Scaled Data
+
+![Getting Started](images/scatter.png)
+
+### Elbow Curve
+
+![Getting Started](images/elbow-curve.png)
+
+
+
